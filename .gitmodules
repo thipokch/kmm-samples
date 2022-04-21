@@ -1,0 +1,66 @@
+[submodule "realm-kotlin-samples"]
+	path = realm-kotlin-samples
+	url = https://github.com/realm/realm-kotlin-samples
+[submodule "FantasyPremierLeague"]
+	path = FantasyPremierLeague
+	url = https://github.com/joreilly/FantasyPremierLeague
+[submodule "PeopleInSpace"]
+	path = PeopleInSpace
+	url = https://github.com/joreilly/PeopleInSpace
+[submodule "BikeShare"]
+	path = BikeShare
+	url = https://github.com/joreilly/BikeShare
+[submodule "MortyComposeKMM"]
+	path = MortyComposeKMM
+	url = https://github.com/joreilly/MortyComposeKMM
+[submodule "StarWars"]
+	path = StarWars
+	url = https://github.com/joreilly/StarWars
+[submodule "GalwayBus"]
+	path = GalwayBus
+	url = https://github.com/joreilly/GalwayBus
+[submodule "kmm-production-sample"]
+	path = kmm-production-sample
+	url = https://github.com/Kotlin/kmm-production-sample
+[submodule "kmm-basic-sample"]
+	path = kmm-basic-sample
+	url = https://github.com/Kotlin/kmm-basic-sample
+[submodule "KaMPKit"]
+	path = KaMPKit
+	url = https://github.com/touchlab/KaMPKit
+[submodule "moko-template"]
+	path = moko-template
+	url = https://github.com/icerockdev/moko-template
+[submodule "gitlab-client"]
+	path = gitlab-client
+	url = https://gitlab.com/terrakok/gitlab-client
+[submodule "D-KMP-sample"]
+	path = D-KMP-sample
+	url = https://github.com/dbaroncelli/D-KMP-sample
+[submodule "Food2Fork-KMM"]
+	path = Food2Fork-KMM
+	url = https://github.com/mitchtabian/Food2Fork-KMM
+[submodule "kmm-ktor-sample"]
+	path = kmm-ktor-sample
+	url = https://github.com/KaterinaPetrova/kmm-ktor-sample
+[submodule "CCC"]
+	path = CCC
+	url = https://github.com/Oztechan/CCC
+[submodule "codeforces_watcher"]
+	path = codeforces_watcher
+	url = https://github.com/xorum-io/codeforces_watcher
+[submodule "CatViewerDemo"]
+	path = CatViewerDemo
+	url = https://github.com/MartinRajniak/CatViewerDemo
+[submodule "praxiskmm"]
+	path = praxiskmm
+	url = https://github.com/mutualmobile/praxiskmm
+[submodule "kmm-with-cocoapods-sample"]
+	path = kmm-with-cocoapods-sample
+	url = https://github.com/Kotlin/kmm-with-cocoapods-sample
+[submodule "kmm-with-cocoapods-multitarget-xcode-sample"]
+	path = kmm-with-cocoapods-multitarget-xcode-sample
+	url = https://github.com/Kotlin/kmm-with-cocoapods-multitarget-xcode-sample
+[submodule "mpp-sample-lib"]
+	path = mpp-sample-lib
+	url = https://github.com/KaterinaPetrova/mpp-sample-lib
