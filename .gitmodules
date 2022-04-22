@@ -64,3 +64,6 @@
 [submodule "mpp-sample-lib"]
 	path = mpp-sample-lib
 	url = https://github.com/KaterinaPetrova/mpp-sample-lib
+[submodule "kalium"]
+	path = kalium
+	url = https://github.com/wireapp/kalium.git
